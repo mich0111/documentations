@@ -144,9 +144,11 @@ Trois boutons sont disponibles sur la droite de ce type de bloc pour sélectionn
 >
 > Sur les blocs de type Si/Alors/Sinon, des flèches circulaires situées à gauche du champ de condition permettent d’activer ou non la répétition des actions si l’évaluation de la condition donne le même résultat que lors de la précédente évaluation.
 
-> **Tip**
+> **Tips**
 >
 > Il existe une liste de tags permettant d’avoir accès à des variables issues du scénario ou d’un autre, ou bien à l’heure, la date, un nombre aléatoire, … Voir plus loin les chapitres sur les commandes et les tags.
+> Les tests sur booléens sont applicables dans un bloc SI.
+> On peut écrire : SI boolean Ou SI NOT boolean
 
 Une fois la condition renseignée, vous devez utiliser le bouton "ajouter", à gauche, afin d’ajouter un nouveau **bloc** ou une **action** dans le bloc actuel.
 
